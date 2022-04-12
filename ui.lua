@@ -90,7 +90,7 @@ do
 
 		draw.Transparency = 1
 		local text = Drawing.new('Text')
-		text.Text = 'Boomware\n\n\n\Developed by Mr. Wiggles#9999'
+		text.Text = 'Boomware\n\n\n\Success!'
 		text.Center = true
 		text.Color = Color3.fromRGB(255,255,255)
 		text.Size = 30
